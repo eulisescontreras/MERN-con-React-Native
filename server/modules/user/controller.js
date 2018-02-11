@@ -1,10 +1,10 @@
 import mongodb from 'mongodb';
 
 //String Conection
-const CONNECT_MONGODB_URL = "mongodb://localhost:27017/"; 
+const CONNECT_MONGODB_URL = "mongodb://econtreras:23795053@ds149613.mlab.com:49613/opireto"; 
 
 //Databases
-const DBNAME_ADMIN = "admin";
+const DBNAME_ADMIN = "opireto";
  
 //Collections
 const COLLECTION_USERS =  "users"
