@@ -1,5 +1,4 @@
 /node_modules
-/app
 /app/node_modules/**/*
 /app/.expo/*
 /app/npm-debug.*
